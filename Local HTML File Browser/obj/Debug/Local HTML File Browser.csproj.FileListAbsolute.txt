@@ -1,0 +1,10 @@
+C:\Users\zalaa\Documents\Stack Overflow & Exchange Answers\Quickly View large number of html\Local HTML File Browser\Local HTML File Browser\bin\Debug\Local HTML File Browser.exe.config
+C:\Users\zalaa\Documents\Stack Overflow & Exchange Answers\Quickly View large number of html\Local HTML File Browser\Local HTML File Browser\bin\Debug\Local HTML File Browser.exe
+C:\Users\zalaa\Documents\Stack Overflow & Exchange Answers\Quickly View large number of html\Local HTML File Browser\Local HTML File Browser\bin\Debug\Local HTML File Browser.pdb
+C:\Users\zalaa\Documents\Stack Overflow & Exchange Answers\Quickly View large number of html\Local HTML File Browser\Local HTML File Browser\obj\Debug\Local HTML File Browser.csprojAssemblyReference.cache
+C:\Users\zalaa\Documents\Stack Overflow & Exchange Answers\Quickly View large number of html\Local HTML File Browser\Local HTML File Browser\obj\Debug\Local_HTML_File_Browser.Main.resources
+C:\Users\zalaa\Documents\Stack Overflow & Exchange Answers\Quickly View large number of html\Local HTML File Browser\Local HTML File Browser\obj\Debug\Local_HTML_File_Browser.Properties.Resources.resources
+C:\Users\zalaa\Documents\Stack Overflow & Exchange Answers\Quickly View large number of html\Local HTML File Browser\Local HTML File Browser\obj\Debug\Local HTML File Browser.csproj.GenerateResource.cache
+C:\Users\zalaa\Documents\Stack Overflow & Exchange Answers\Quickly View large number of html\Local HTML File Browser\Local HTML File Browser\obj\Debug\Local HTML File Browser.csproj.CoreCompileInputs.cache
+C:\Users\zalaa\Documents\Stack Overflow & Exchange Answers\Quickly View large number of html\Local HTML File Browser\Local HTML File Browser\obj\Debug\Local HTML File Browser.exe
+C:\Users\zalaa\Documents\Stack Overflow & Exchange Answers\Quickly View large number of html\Local HTML File Browser\Local HTML File Browser\obj\Debug\Local HTML File Browser.pdb
