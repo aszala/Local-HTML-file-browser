@@ -17,7 +17,7 @@ If the window appears to be cut off at the bottom, you may have to move the wind
 [![enter image description here][3]][3]
 
 Navigate to the folder in which all your HTML files are stored. And then click "Ok".
-Since you are loading over 1000 HTML files this may take a little while to load. Please allow for a couple of minutes while all the files are being loaded.
+Please allow for a some time while all the files are being loaded. It depends on the amount of files you are loading.
 
 Once it is done all your files should appear on the panel to the left side.
 
